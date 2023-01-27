@@ -41,6 +41,27 @@ replication rule - to copy files one account s3 to other account s3
 cors - cross-origin resource sharing (CORS) 
 s3 bucket policy
 
+work: attach s3 bucket to ec2 instance.
+
+EC2:
+Public ec2
+private ec2
+autoscaling groups
+loadbalancers - alb, nlb and elb
+
+EBS: 
+
+work:
+create EBS and attach to ec2 instance?
+resize(increase the EBS size, but once incresed you can not decrese the size)
+Is EBS region service and availability zone specific?
+
+
+EFS:
+work:
+create an efs and attach to ec2 instance?
+
+
 amazlinx - ec2-user
 centos - centos
 
