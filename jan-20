@@ -20,7 +20,7 @@ NACL's
 vpc endpoint
 vpc endpoint service 
 eni - elastic network interface
-elastic ip - 
+elastic ip
 
 IAM:
 iam role
@@ -41,12 +41,15 @@ replication rule - to copy files one account s3 to other account s3
 cors - cross-origin resource sharing (CORS) 
 s3 bucket policy
 
-work: attach s3 bucket to ec2 instance.
+work: 
+attach s3 bucket to ec2 instance?
+upload resume to s3 and access as website endpoint ?
 
 EC2:
 Public ec2
 private ec2
 autoscaling groups
+userdata
 loadbalancers - alb, nlb and elb
 
 EBS: 
