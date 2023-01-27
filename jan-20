@@ -1,11 +1,45 @@
+Linux distributions: centos, redhat, amazon linux, debian , fedora, kali linux .....
 
-networking protocals
+Shell scripting:
+
+30 linux commads:
+
+networking protocals: tcp, udp, tfp, smtp
+
+aws global infrastructure : ex: how many regions and availability zones in each region
+
+AWS Global services: cloudfront, iam and route53
+
+vpc:
+
+public subnet
+private subnet
+nat gateway
+internetgateway
+NACL's
+vpc endpoint
+vpc endpoint service 
 eni - elastic network interface
 elastic ip - 
 
+IAM:
+iam role
+instance profile
+aws managed policy
+inline policy
+assume role
+iam users
 create one iam user - get the accesskey and secret key
 
-30 linux commads
+                                      
+s3 bucket:
+
+static website hosting 
+object versioning 
+s3 life cylce rules
+replication rule - to copy files one account s3 to other account s3
+cors - cross-origin resource sharing (CORS) 
+s3 bucket policy
 
 amazlinx - ec2-user
 centos - centos
@@ -25,12 +59,4 @@ s3 static website hosting
   Default output format [None]: yaml
                                       }
                                       
-                                      
-s3 bucket:
 
-static website hosting 
-object versioning 
-s3 life cylce rules
-replication rule - to copy files one account s3 to other account s3
-cors - cross-origin resource sharing (CORS) 
-s3 bucket policy
