@@ -29,6 +29,7 @@ s3 bucket:
 
 static website hosting 
 object versioning 
+s3 life cylce rules
 replication rule - to copy files one account s3 to other account s3
 cors - cross-origin resource sharing (CORS) 
 
