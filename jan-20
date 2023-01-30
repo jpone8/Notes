@@ -42,8 +42,8 @@ cors - cross-origin resource sharing (CORS)
 s3 bucket policy
 
 work: 
-attach s3 bucket to ec2 instance?
-upload resume to s3 and access as website endpoint ?
+attach s3 bucket to ec2 instance?  Created
+upload resume to s3 and access as website endpoint ? Done
 
 EC2:
 Public ec2
@@ -55,14 +55,14 @@ loadbalancers - alb, nlb and elb
 EBS: 
 
 work:
-create EBS and attach to ec2 instance?
-resize(increase the EBS size, but once incresed you can not decrese the size)
+create EBS and attach to ec2 instance? done
+resize(increase the EBS size, but once incresed you can not decrese the size)   "done"
 Is EBS region service and availability zone specific?
 
 
 EFS:
 work:
-create an efs and attach to ec2 instance?
+create an efs and attach to ec2 instance? "just created but not attached to EC2"
 
 
 amazlinx - ec2-user
