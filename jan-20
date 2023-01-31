@@ -82,8 +82,11 @@ s3 static website hosting
   Default region name [None]: us-east-1
   Default output format [None]: yaml
                                       }
-                                      
+    
+    1/30/23
 docker images
 docker container
 docker volumes
 
+open SSL
+crete Autoscaling group using  AWS C.F
