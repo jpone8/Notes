@@ -83,4 +83,7 @@ s3 static website hosting
   Default output format [None]: yaml
                                       }
                                       
+docker images
+docker container
+docker volumes
 
