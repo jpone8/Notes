@@ -90,3 +90,19 @@ docker volumes
 
 open SSL
 crete Autoscaling group using  AWS C.F
+
+
+VPC flow logs
+CloudWatch Logs
+Cloudtrail
+Eks
+
+{
+ControlTower - Landing Zone - Account Factory - Service Catalog
+Sandbox OU(Organization Units)
+Security OU(Organization Units)
+Service control polices 
+Guard rails 
+AWS sso
+}
+Active Directory
