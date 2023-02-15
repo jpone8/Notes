@@ -40,10 +40,17 @@ s3 life cylce rules
 replication rule - to copy files one account s3 to other account s3
 cors - cross-origin resource sharing (CORS) 
 s3 bucket policy
+s3 lens
+s3 access points
+s3 presinged urls
 
 work: 
 attach s3 bucket to ec2 instance?  Created
 upload resume to s3 and access as website endpoint ? Done
+login to aws control tower account with sso url?
+eks private cluster vpc endppoints?
+eks cluser and nodegroup creation ?
+
 
 EC2:
 Public ec2
