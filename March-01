@@ -1,16 +1,40 @@
-You5:07 PM
+
 https://d-9067a8203f.awsapps.com/start#/
-aws practice5:10 PM
+
 https://github.com/ahmetb/kubectx
-aws practice5:19 PM
+
 https://phoenixnap.com/kb/install-helm
-aws practice5:29 PM
+
 choco install fzf
-aws practice5:33 PM
+
 https://manjit28.medium.com/powershell-define-shortcut-alias-for-common-kubernetes-commands-1c006d68cce2
-aws practice6:12 PM
+
 symlink in linux
 ln -s
-aws practice7:35 PM
+
 https://dev.to/aws-builders/understanding-the-dockerfile-format-3cc6
 entrypoint and CMD
+
+
+
+
+https://gist.github.com/merikan/228cdb1893fca91f0663bab7b095757c
+
+scripted pipeline
+declaratuve pipeline
+gitcloine
+maven/gradle build
+junittest case run
+sonarcodescan
+docker image build
+
+image scan - twistlock - check for vuenralabitlities in docker image
+if the it has more bugs it will fail thepipeline
+docker push to artifacrory
+
+helm upgrade chartname
+anulgar/ nodejs - npm
+
+codecommit - github
+codebuild - mavn/gradle - code build uses a docker image  which can maven or gradle
+jenkinsppeline  - code pipeline
