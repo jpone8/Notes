@@ -2,6 +2,7 @@ linux
 shell scripting
 ssl certificates
 networking protocals
+load balacning types
 python
 CI - > jenkins
 source code managment: Github, gitlab and bitbucket
