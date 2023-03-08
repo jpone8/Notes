@@ -1,0 +1,28 @@
+linux
+shell scripting
+ssl certificates
+networking protocals
+python
+CI - > jenkins
+source code managment: Github, gitlab and bitbucket
+code scan -> sonarqube
+image scanning -> artifactory xray, twistlock or check marx
+Diff between monolothic and micro services 
+cloud computing advantages over data center 
+
+contnoues integration/ deployment - delivery
+aws services: 
+
+
+
+
+
+arch
+CI/CD flow - pipeline script - frontend - angular.js, ndode.js - > backned -> java, python, ruby, .net -> DB
+
+load balacning types -> what tools we -> nginx 
+
+roundrobin
+weighted roundrobin
+least connection
+resource based load balacing
