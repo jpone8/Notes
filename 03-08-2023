@@ -1,0 +1,17 @@
+AWS arch
+services for webapplication
+
+
+route53
+vpc
+loadbalancer
+autoscaling group
+ec2
+s3
+ebs
+efs
+databases
+cloudwatch
+sns
+iam
+cloudformation
